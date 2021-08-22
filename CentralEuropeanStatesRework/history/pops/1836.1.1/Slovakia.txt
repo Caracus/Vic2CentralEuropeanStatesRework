@@ -5,105 +5,254 @@
 	bureaucrats = {
 		culture = slovak
 		religion = catholic
-		size = 125 
+		size = 100 
 	}
 	
 	officers = {
 		culture = slovak
 		religion = catholic
-		size = 75 
+		size = 50 
 	}
 
 	clergymen = {
 		culture = slovak
 		religion = catholic
-		size = 1200 
+		size = 400 
 	}
 
 	artisans = {
 		culture = slovak
 		religion = catholic
-		size = 3200
+		size = 2000
 	}
 
 	soldiers = {
 		culture = slovak
 		religion = catholic
-		size = 1250 
+		size = 1000 
 	}
 
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 95150
+		size = 40000
 	}
 
 	aristocrats = {
 		culture = hungarian
 		religion = catholic
-		size = 1550  
+		size = 1000  
 	}
 
 	bureaucrats = {
 		culture = hungarian
 		religion = catholic
-		size = 300  
+		size = 200  
 	}
 
 	officers = {
 		culture = hungarian
 		religion = catholic
-		size = 200   
+		size = 50   
 	}
 
 	clergymen = {
 		culture = hungarian
 		religion = catholic
-		size = 200  
+		size = 50  
 	}
 
 	artisans = {
 		culture = hungarian
 		religion = catholic
-		size = 1250
+		size = 800
 	}
 
 	soldiers = {
 		culture = hungarian
 		religion = catholic
-		size = 200  
+		size = 50  
 	}
 
 	farmers = {
 		culture = hungarian
 		religion = catholic
-		size = 15600   
+		size = 10000   
 	}
 
 	clergymen = {
 		culture = hungarian
 		religion = protestant
-		size = 125
+		size = 100
 	}
 
 	artisans = {
 		culture = hungarian
 		religion = protestant
-		size = 1100
+		size = 800
 	}
 
 	soldiers = {
 		culture = hungarian
 		religion = protestant
-		size = 150  
+		size = 100  
 	}
 
 	farmers = {
 		culture = hungarian
 		religion = protestant
-		size = 4725    
+		size = 300    
 	}
 }
+
+
+3251 = {
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 2350  
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 22000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 425 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 60000  
+	}
+
+	bureaucrats = {
+		culture = slovak
+		religion = catholic
+		size = 40
+	}
+	
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 25 
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 1400
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 55000
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 350  
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 100 
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 80   
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 60  
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 150 
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 6000  
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 50  
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 1725    
+	}
+}
+
 #Trencin (228000/57000 POPS)
 634 = {
 	clergymen = {

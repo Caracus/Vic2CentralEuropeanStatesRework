@@ -415,68 +415,67 @@
 	clergymen = {
 		culture = czech
 		religion = catholic
-		size = 400 
+		size = 300 
 	}
 
 	artisans = {
 		culture = czech
 		religion = catholic
-		size = 2650
+		size = 2000
 	}
 
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size = 550
+		size = 400
 	}
 	
 	bureaucrats = {
 		culture = czech
 		religion = catholic
-		size = 100
+		size = 80
 	}
 	
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 4000 
+		size = 2800
 	}
 
 
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 1400 
-	}
+		size = 1100
 	
 	bureaucrats = {
 		culture = south_german
 		religion = catholic
-		size = 100
+		size = 80
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 825 
+		size = 625 
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 5600
+		size = 400
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 1100
+		size = 800
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 86075 
+		size = 56075 
 	}
 
 	clergymen = {
@@ -500,9 +499,103 @@
 	farmers = {
 		culture = south_german
 		religion = jewish
-		size = 1425  
+		size = 1000  
 	}
 }
+
+3252 = {
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 100 
+	}
+
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = czech
+		religion = catholic
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = czech
+		religion = catholic
+		size = 20
+	}
+	
+	farmers = {
+		culture = czech
+		religion = catholic
+		size = 1200 
+	}
+
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 400 
+	}
+	
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 325 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1600
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 36075 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = jewish
+		size = 50 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = jewish
+		size = 1800
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = jewish
+		size = 425  
+	}
+}
+
 #Moravia Region (1476000) 
 #under the rule of Austria in 1836  
 #Brno (1094000/273500 POPS)
@@ -615,43 +708,43 @@
 	clergymen = {
 		culture = czech
 		religion = catholic
-		size = 350 
+		size = 200
 	}
 
 	artisans = {
 		culture = czech
 		religion = catholic
-		size = 700
+		size = 600
 	}
 
 	soldiers = {
 		culture = czech
 		religion = catholic
-		size = 550
+		size = 400
 	}
 
 	farmers = {
 		culture = czech
 		religion = catholic
-		size = 20700 
+		size = 10000
 	}
 
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 2250  
+		size = 2000  
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 500  
+		size = 400  
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 4300 
+		size = 3600
 	}
 
 	soldiers = {
@@ -663,7 +756,7 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 85000 
+		size = 40000 
 	}
 
 	clergymen = {
@@ -675,7 +768,7 @@
 	artisans = {
 		culture = south_german
 		religion = jewish
-		size = 2500
+		size = 2000
 	}
 
 	soldiers = {
@@ -687,9 +780,93 @@
 	farmers = {
 		culture = south_german
 		religion = jewish
-		size = 1225  
+		size = 1000  
 	}
 }
+
+3253 = {
+
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 150 
+	}
+
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = czech
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = czech
+		religion = catholic
+		size = 5700
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 8250  
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 100  
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 3300 
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 100
+	}
+	
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 15000
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = jewish
+		size = 50 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = jewish
+		size = 500
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = jewish
+		size = 400  
+	}
+
+}
+
+
 #Silesia Region (220000) #see Poland.txt for balance of region
 #under the rule of Austria in 1836  
 #Troppau (104000/26000 POPS)
@@ -716,6 +893,12 @@
 		culture = czech
 		religion = catholic
 		size = 450
+	}
+
+	farmers = {
+		culture = czech
+		religion = catholic
+		size = 5050 
 	}
 
 	soldiers = {
@@ -746,13 +929,13 @@
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 200  
+		size = 300  
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 1550 
+		size = 1850 
 	}
 
 	soldiers = {
@@ -764,7 +947,7 @@
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 22610   
+		size = 52610   
 	}
 }
 #Teschen (116000/29000 POPS)

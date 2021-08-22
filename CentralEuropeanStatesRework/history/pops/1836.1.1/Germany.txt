@@ -4989,47 +4989,183 @@
 
 }
 
-3251 = {
+3254 = {
 
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 1950  
+		size = 1000
 	}
 
 	bureaucrats = {
 		culture = south_german
 		religion = catholic
-		size = 750 
+		size = 1000
 	}
 
 	officers = {
 		culture = south_german
 		religion = catholic
-		size = 150 
+		size = 1000
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 325
+		size = 1000
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 16000
+		size = 1000
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 375  
+		size = 1000
 	}
 
 	farmers = {
 		culture = south_german
 		religion = catholic
-		size = 51000  
+		size = 1000
+	}
+}
+
+3255 = {
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+}
+
+3256 = {
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+}
+
+
+3258 = {
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
 	}
 }
