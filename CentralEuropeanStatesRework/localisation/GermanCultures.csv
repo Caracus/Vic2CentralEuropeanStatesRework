@@ -1,4 +1,5 @@
 low_german;Low German;;Niederdeutsch;;;;;;;;;;;
+standard_german;Standard German;;Hochdeutsch;;;;;;;;;;;
 PROV625;Prag;;Prag;;;;;;;;;;;
 PROV626;Koeniggraetz;;Koeniggraetz;;;;;;;;;;;
 PROV629;Pilsen;;Pilsen;;;;;;;;;;;
@@ -26,7 +27,7 @@ MEC_545;Mecklenburg;;Mecklenburg;;;;;;;;;;;
 WEI_561;Thueringen;;Thueringen;;;;;;;;;;;
 SWI_607;French Switzerland;;Switzerland;;;;;;;;;;;
 SWI_605;Kernschweiz;;Kernschweiz;;;;;;;;;;;
-SWI_603;Alpenland;;Alpenland;;;;;;;;;;;
+SWI_603;Ostschweiz;;Ostschweiz;;;;;;;;;;;
 WUR_589;Schwabenland;;Schwabenland;;;;;;;;;;;
 HES_2560;Hessen;;Hessen;;;;;;;;;;;
 AUS_627;Sudetenland;;Sudetenland;;;;;;;;;;;

@@ -1,0 +1,93 @@
+settle_netherlands_border_dispute = {
+	potential = {
+		tag = GER
+		NOT = {
+			has_global_flag = settle_netherlands_border_dispute_flag
+		}
+	}
+
+	effect = {
+		3250 = { remove_core = NET }
+		3249 = { remove_core = NET }
+		381 = { remove_core = NET }
+
+		397 = { remove_core = LUX }
+
+		396 = { remove_core = BEL }
+		396 = { remove_core = WLL }
+
+		3250 = { add_core = GER }
+		3249 = { add_core = GER }
+		381 = { add_core = GER }
+		396 = { add_core = GER }
+		397 = { add_core = GER }
+
+		set_global_flag = settle_netherlands_border_dispute_flag
+}
+}
+
+settle_france_border_dispute = {
+	potential = {
+		tag = GER
+		NOT = {
+			has_global_flag = settle_france_border_dispute_flag
+		}
+	}
+
+	effect = {
+		412 = { remove_core = FRA }
+		409 = { remove_core = FRA }
+		410 = { remove_core = FRA }
+
+		set_global_flag = settle_france_border_dispute_flag
+	}
+}
+
+settle_poland_dispute = {
+	potential = {
+		tag = GER
+		NOT = {
+			has_global_flag = settle_poland_dispute_flag
+		}
+	}
+
+	effect = {
+		685 = { remove_core = POL }
+		684 = { remove_core = POL }
+		682 = { remove_core = POL }
+		683 = { remove_core = POL }
+		701 = { remove_core = POL }
+		699 = { remove_core = POL }
+		700 = { remove_core = POL }
+		691 = { remove_core = POL }
+		692 = { remove_core = POL }
+		690 = { remove_core = POL }
+		693 = { remove_core = POL }
+		694 = { remove_core = POL }
+		696 = { remove_core = POL }
+		3257 = { remove_core = POL }
+		697 = { remove_core = POL }			
+		698 = { remove_core = POL }
+		695 = { remove_core = POL }
+
+		685 = { remove_core = PLC }
+		684 = { remove_core = PLC }
+		682 = { remove_core = PLC }
+		683 = { remove_core = PLC }
+		701 = { remove_core = PLC }
+		699 = { remove_core = PLC }
+		700 = { remove_core = PLC }
+		691 = { remove_core = PLC }
+		692 = { remove_core = PLC }
+		690 = { remove_core = PLC }
+		693 = { remove_core = PLC }
+		694 = { remove_core = PLC }
+		696 = { remove_core = PLC }
+		3257 = { remove_core = PLC }
+		697 = { remove_core = PLC }			
+		698 = { remove_core = PLC }
+		695 = { remove_core = PLC }			
+
+		set_global_flag = settle_poland_dispute_flag
+	}	
+}
